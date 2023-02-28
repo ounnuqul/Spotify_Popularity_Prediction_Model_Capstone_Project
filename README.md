@@ -1,2 +1,2 @@
-# capstone
+# Capstone
 Repo for BrainStation Capstone
