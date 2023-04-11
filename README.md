@@ -1,5 +1,6 @@
 # Capstone
 Repo for BrainStation Capstone
+
 Predicting Spotify Track Popularity 
 
 Capstone 1:
@@ -21,7 +22,8 @@ Capstone 3:
 - RandomForest
 - XGBoost
 
-Instruction: 
+Instructions: 
+
 The data that goes along with this project was to large to include as is. For that reason it can be downloaded separately from the link below,
 or unzipped from the data_gridsearches.zip file. The same goes for the Gridsearches folder.
 
