@@ -21,6 +21,10 @@ Capstone 3:
 - RandomForest
 - XGBoost
 
+Instruction: 
+The data that goes along with this project was to large to include as is. For that reason it can be downloaded separately from the link below,
+or unzipped from the data_gridsearches.zip file. The same goes for the Gridsearches folder.
+
 Original Kaggle Dataset: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download 
 
 Data Folder: https://drive.google.com/drive/folders/1RSJX0BKijV5ZAerRJOlQOck54jQ-jsx2?usp=sharing
